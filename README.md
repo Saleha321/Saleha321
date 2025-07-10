@@ -99,7 +99,7 @@ CNN | ANN | Logistic Regression | Decision Tree | Random Forest | Linear Regress
 ---
 
 ### 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/saleha-noor-131222372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleha-noor-131222372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salehanoor36@gmail.com)
 
 ---
