@@ -6,7 +6,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 CS Student | Currently in 5th Semester  
+- 🎓 CS Student | Currently in 7th Semester  
 - 🤖 Passionate about **AI, Machine Learning, Deep Learning & Robotics**  
 - 🔐 Interested in **Cybersecurity** & **Ethical Hacking**  
 - 📚 Learning Neural Networks, OpenCV & Deep Learning frameworks  
